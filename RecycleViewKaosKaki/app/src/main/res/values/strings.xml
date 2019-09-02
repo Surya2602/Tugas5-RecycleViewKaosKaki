@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecycleViewKaosKaki</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">With CardView</string>
+    <string name="kaos_name">Nama Kaos Kaki</string>
+    <string name="desc">Deskripsi</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
